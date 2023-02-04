@@ -3,6 +3,8 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Hello there, my name is Allen Taewon Lim and I am a computer scientist focusing on test automation and macOS (mostly security). I studied at California State University, Northridge and received my B.S. in Computer Science in the fall of 2021.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I am also working on many personal projects such as utilizing microk8s and various SBCs to create a mobile workstation that goes wherever I go. For this, I am using the Raspberry Pi 400, the Raspberry Pi 4, and the Lattepanda Delta (for x86 servers). I am planning to use a mobile power supply with USB PD and a GL.INet router.
+
+I also have another Raspberry Pi with a home assistant working as the bridge for my IoT devices, like generic IoT plugs with Tuya cloud support. I am planning to use my ESP32-E board and Matter firmware from Github to make an IR signal sender so I can eventually make a machine remote controllable with the home assistant.
