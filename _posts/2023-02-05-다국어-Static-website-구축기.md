@@ -1,7 +1,7 @@
 ---
 title: 다국어 Static website 구축기
 categories:
- - 블로그
+ - 한국어
 tags:
  - Korean Posts
  - Static website
